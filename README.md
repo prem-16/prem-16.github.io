@@ -1,2 +1,10 @@
-# prem-16.github.io
-### Hello World
+# Master Student
+
+
+### Education
+Master of Science, Embedded System Engineering
+
+### Work Experience
+Software Engineer @ Bosch
+
+### Projects
