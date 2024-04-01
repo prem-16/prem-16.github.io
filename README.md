@@ -1,6 +1,6 @@
 # About Me
 
-- **Name:** Premnath Srinivasa
+- **Name:** Premnath Srinivasan
 - **Nationality:** Indian
 - **Contact:**  
   - ✉️ [sriprem1130@gmail.com](mailto:sriprem1130@gmail.com)
