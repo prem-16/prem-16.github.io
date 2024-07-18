@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am a master's student specializing in Embedded Systems Engineering with a focus on Artificial Intelligence. Currently, I am pursuing my master thesis in the field of 3D Computer Vision, expected to complete by the start of October 2024. With over 2.5 years of work experience in agile software development, I have a strong background in Computer Vision, deep learning, and 3D Digital Image Correlation. I am also ISTQB foundation level certified in software testing.
+I am a master's student specializing in Embedded Systems Engineering with a focus on Artificial Intelligence. Currently, I am pursuing my master thesis in the field of 3D Computer Vision, expected to complete by the start of October 2024. With over 2.5 years of work experience in agile software development, I have a strong background in Computer Vision, deep learning, and 3D Digital Image Correlation. Feel free to reach out to me for collaboration.
 
 ## Work Experience
 
@@ -113,5 +113,3 @@ I am a master's student specializing in Embedded Systems Engineering with a focu
 - **LinkedIn:** [linkedin.com/in/premnath-srinivasan-6ab1b5135](https://www.linkedin.com/in/premnath-srinivasan-6ab1b5135)
 - **GitHub:** [github.com/prem-16](https://github.com/prem-16)
 - **Personal Website:** [prem-16.github.io](https://prem-16.github.io/)
-
-Feel free to reach out to me for collaboration, internships, or full-time opportunities.
