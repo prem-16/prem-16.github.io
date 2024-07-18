@@ -1,103 +1,117 @@
-# About Me
+# Premnath Srinivasan
 
-- **Name:** Premnath Srinivasan
-- **Nationality:** Indian
-- **Contact:**  
-  - ✉️ [sriprem1130@gmail.com](mailto:sriprem1130@gmail.com)
-  - 🔗 [LinkedIn](https://www.linkedin.com/in/premnath-srinivasan-6ab1b5135)
-  - 🌐 [GitHub](https://github.com/prem-16)
+## About Me
 
-## About
-
-- Master student in the field of Embedded Systems Engineering with intended specialization in Artificial Intelligence.
-- Currently pursuing master thesis in the field of Generative Vision and 3D Computer Vision.
-- Working knowledge in the field of Computer Vision and deep learning.
-- Experience in 3D Digital Image Correlation.
-- ISTQB foundation level certified in software testing.
+I am a master's student specializing in Embedded Systems Engineering with a focus on Artificial Intelligence. Currently, I am pursuing my master thesis in the field of 3D Computer Vision, expected to complete by the start of October 2024. With over 2.5 years of work experience in agile software development, I have a strong background in Computer Vision, deep learning, and 3D Digital Image Correlation. I am also ISTQB foundation level certified in software testing.
 
 ## Work Experience
 
-### University of Freiburg
-- **Duration:** 01/10/2023 – 29/02/2024
-- **Location:** Freiburg, Germany
-- **Position:** University Teaching Assistant
-- Responsibilities:
-  - Student Assistant for the course "Modelling and System Identification".
-  - Setting up Git classroom, presenting solutions for exercise courses.
-    
-### LivMats
-- **Duration:** 01/04/2023 – 30/09/2023
-- **Location:** Freiburg im Breisgau, Germany
-- **Position:** Werkstudent
-- Responsibilities:
-  - 3D Digital Image Correlation in underwater setup.
+- **Master Thesis Student**
+  - **Institution:** Generative Intelligence Lab, University of Freiburg
+  - **Duration:** April 2024 - October 2024
+  - **Responsibilities:**
+    - Developing a neural mesh model for 3D generative representations to enhance pose estimation with robustness against partial occlusion and unseen poses.
 
-### Siemens EDA
-- **Duration:** 03/10/2022 – 30/09/2023
-- **Location:** Villingen, Germany
-- **Position:** Work Student
-- Responsibilities:
-  - Test automation for Infotainment systems software using Python and OpenCV.
-  - Image verification using Descriptor matching.
-  - Maintenance of remote test setup.
+- **Teaching Assistant**
+  - **Institution:** University of Freiburg
+  - **Courses:**
+    - Algorithms and Complexity Chair (May 2024 - September 2024)
+      - Topics: Sorting and Searching Algorithms, Core Data Structures, Algorithmic Techniques, Complexity Analysis.
+    - System Control and Optimization Chair (October 2023 - February 2024)
+      - Topics: Parameter Estimation, Optimality Conditions, Dynamic Systems Analysis, Nonlinear Least Squares.
 
-### Bosch Global Software Technologies
-- **Duration:** 08/09/2019 – 16/03/2022
-- **Location:** Coimbatore, India
-- **Position:** Software Engineer
-- Responsibilities:
-  - Responsible for creating and maintaining simulation environment using CANoe from CAN-DB for interfacing with instrument cluster and infotainment
-  - Functional Safety Testing (ISO26262)
-  - Handled test automation for UDS diagnostic testing for FCA projects.
-  - Test Spec/Test List preparation and execution for instrument cluster projects for German OEMs.
-  - Flashing of ECU using USB, MOST, and CAN protocol.
-  - Test automation using python scripting, CAPL scripting.
+- **Research Assistant**
+  - **Institution:** LivMats, University of Freiburg
+  - **Duration:** April 2023 - September 2023
+  - **Responsibilities:**
+    - 3D Digital Image Correlation in underwater setup.
+    - Camera Calibration for stereo setup using OpenCV-Python.
 
+- **Software Engineer**
+  - **Company:** Bosch Global Software Technologies
+  - **Duration:** September 2019 - March 2022
+  - **Responsibilities:**
+    - Worked on instrument cluster projects for German OEMs.
+    - Developed test frameworks for continuous testing using Jenkins, Grafana, and vector tools.
 
-## Education and Training
+- **Working Student - Image Processing, Test Automation**
+  - **Company:** Siemens EDA
+  - **Duration:** October 2022 - September 2023
+  - **Responsibilities:**
+    - Image verification of infotainment system display using image descriptor matching.
+    - Test automation using Python and OpenCV.
 
-### Master of Science Embedded Systems Engineering
-- **Duration:** 19/04/2022 – Present
-- **Location:** Freiburg, Germany
-- **University:** University of Freiburg
-- **Final Grade:** 2.1
+## Education
 
-### Bachelor Of Technology Electronics and Communication Engineering
-- **Duration:** 31/05/2015 – 31/05/2019
-- **Location:** Coimbatore, India
-- **University:** Amrita School of Engineering
-- **Final Grade:** 8.2/10
-- **Thesis:** Design of an Autonomous Mobile Robot based on Sensor Data Fusion
+- **Master of Science in Embedded Systems Engineering (Artificial Intelligence)**
+  - **Institution:** University of Freiburg
+  - **Duration:** April 2022 - Present
+  - **Thesis:** Learning 3D object centric models using self-supervised features
 
-## Digital Skills
+- **Bachelor of Technology in Electronics and Communication Engineering**
+  - **Institution:** Amrita School of Engineering
+  - **Duration:** May 2015 - May 2019
+  - **Thesis:** Design of an Autonomous Mobile Robot based on Sensor Data Fusion
 
-- **Languages:** Python, C++
-- **Deep Learning Frameworks:** PyTorch, Tensorflow,
-- **ML tools:** wandb, Gradio, Google Cloud Platform
-- **Computer Vision:** Open3D / PCL, Pytorch-3D, OpenCV
-- **Tools:** GIT/Gerrit, Rational JAZZ RTC Rational DOORS
-- **Automotive:** CAN Vector CANoe, CAPL Scripting, MATLAB&Simulink, Functional safety ISO26262
+## Skills
 
-## Language Skills
+### Programming Languages
+- Python
+- C++
 
-- **Mother Tongue:** Tamil
-- **Other Languages:** English, German
+### Tools & Frameworks
+- Git/Gerrit
+- Rational JAZZ RTC
+- Rational DOORS
+- Jenkins
+- Grafana
 
-## Certification
+### Deep Learning
+- Scikit-learn
+- PyTorch
+- Keras
+- TensorFlow
+- OpenAI Gym
 
-- ISTQB Certified Tester, Foundation Level
+### Automotive
+- CAN
+- Vector CANoe
+- CAPL Scripting
+- MATLAB & Simulink
+- AUTOSAR
+- Functional Safety ISO26262
 
-## Additional Information
+### Computer Vision
+- Open3D
+- PCL
+- PyTorch-3D
+- Kornia
+- OpenCV
 
-### Publications
+## Languages
+- English: C1
+- German: A2
+- Tamil: Native
 
-- Design of an Autonomous Mobile Robot based on the Sensor Data Fusion (2019)
+## Publications
+- **Design of an Autonomous Mobile Robot based on Sensor Data Fusion** (2019)
+  - *9th International Conference on Advances in Computing and Communication*
 
-### Projects
+## Projects
 
-- [Task detection using VIT transformer descriptors](https://github.com/heisenberg-12/Vision_transformer_features)
-- [3D Digital Image Correlation using AI techniques](https://github.com/verma-rishabh/air-hockey)
-- Automation of Test Library creation for Proxi Coding
-- Functional Safety test framework creation
-- Tree Species Segmentation using deeplabV3 architecture
-- Master Thesis: Learning 3D object centric mesh models using self supervised features.
+- **Master Thesis:** Learning Object Centric 3D models using self-supervised features (April 2023 - October 2024)
+- **Semantic Correspondence for Animal 3D dataset using Spherical Maps** (June 2024)
+- **3D Digital Image Correlation** (April 2023 - September 2023)
+- **Task detection using VIT transformer descriptors** (May 2023 - July 2023)
+- **Tree Species Segmentation using deeplabV3 architecture** (2022)
+- **Functional Safety test framework creation** (2020)
+- **Design of an Autonomous Mobile Robot based on Sensor Data Fusion** (2017 - 2019)
+
+## Contact
+
+- **Email:** [sriprem1130@gmail.com](mailto:sriprem1130@gmail.com)
+- **LinkedIn:** [linkedin.com/in/premnath-srinivasan-6ab1b5135](https://www.linkedin.com/in/premnath-srinivasan-6ab1b5135)
+- **GitHub:** [github.com/prem-16](https://github.com/prem-16)
+- **Personal Website:** [prem-16.github.io](https://prem-16.github.io/)
+
+Feel free to reach out to me for collaboration, internships, or full-time opportunities.
